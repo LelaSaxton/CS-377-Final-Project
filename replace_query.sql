@@ -1,0 +1,1 @@
+SELECT REPLACE(esg_risk_rating, 'Medium', 'Mid') FROM risk;

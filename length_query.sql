@@ -1,0 +1,1 @@
+SELECT LENGTH(esg_risk_rating) FROM risk;

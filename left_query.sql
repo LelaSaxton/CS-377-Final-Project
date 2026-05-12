@@ -1,0 +1,1 @@
+SELECT LEFT(esg_risk_rating, 2) FROM risk;

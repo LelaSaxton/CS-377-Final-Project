@@ -1,0 +1,1 @@
+SELECT POSITION('i' IN esg_risk_rating) FROM risk;

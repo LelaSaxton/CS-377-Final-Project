@@ -1,0 +1,1 @@
+SELECT MIN(esg_score) FROM esg_scores;

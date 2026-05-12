@@ -1,0 +1,1 @@
+SELECT UPPER(esg_risk_rating) FROM risk;

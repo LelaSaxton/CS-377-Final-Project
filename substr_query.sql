@@ -1,0 +1,1 @@
+SELECT SUBSTR(esg_risk_rating, 1, 1) FROM risk;
